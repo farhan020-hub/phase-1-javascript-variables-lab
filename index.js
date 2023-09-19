@@ -2,7 +2,7 @@
 
 let companyName = 'Scuber';
 
-companyName;
+
 
 function companyName(){
     const companyName = "Scuber"
